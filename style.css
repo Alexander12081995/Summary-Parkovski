@@ -1,7 +1,7 @@
-@import "block/nullstyle.css";
-@import "block/header-block.css";
-@import "block/aboutMe-block.css";
-@import "block/footer-block.css";
+@import "/css/block/nullstyle.css";
+@import "/css/block/header-block.css";
+@import "/css/block/aboutMe-block.css";
+@import "/css/block/footer-block.css";
 
 .container {
     margin: 0 auto;
