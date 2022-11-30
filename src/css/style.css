@@ -1,3 +1,10 @@
 @import "block/nullstyle.css";
 @import "block/header-block.css";
+@import "block/aboutMe-block.css";
 
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    background-color: rgb(212, 212, 212);
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+}
